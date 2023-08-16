@@ -1,1 +1,1 @@
-# TrendReact-boutique
+# Trend-React Boutique
