@@ -14,9 +14,10 @@ const Navigation = () => {
             </Link>
           </li>
           <li className="nav-link push">
-            <Link to={"shop"}>
-              <h1>Shop</h1>
-            </Link>
+            <Link to={"shop"}>Shop</Link>
+          </li>
+          <li className="nav-link">
+            <Link to={"sign-in"}>Sign in</Link>
           </li>
         </ul>
       </nav>
