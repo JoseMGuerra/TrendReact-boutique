@@ -1,0 +1,11 @@
+.sign-up-container {
+  display: flex;
+  flex-direction: column;
+  inline-size: 380px;
+  writing-mode: horizontal-tb;
+
+  h2 {
+    margin-block: 10px;
+    margin-inline: 0;
+  }
+}
